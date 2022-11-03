@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Free Documents]
+   Generated File[Gold_New.TXT]
+   Generated File[Gold_New.LDP]
+   Generated File[Gold_New.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 3:22:42 PM On 2/11/2021

@@ -1,0 +1,4232 @@
+(pcb Gold_New.PCBDoc
+    (resolution MIL 10000)
+    (structure
+        (boundary
+            (rect pcb
+                172.3700 15.0000 4878.0000 1960.5030
+            )
+        )
+        (boundary
+            (path signal 0.0
+                172.3700 15.0000
+                4878.0000 15.0000
+                4878.0000 1960.5030
+                172.3700 1960.5030
+                172.3700 15.0000
+            )
+        )
+        (via
+            Via0_TB_RoutingVias_1RoutingVias_2
+            Via1_TB_RoutingVias
+            Via2_TB
+        )
+        (rule
+            (length_amplitude 200 20)
+            (width 10.0000)
+            (clearance 8.0000)
+            (reorder starburst)
+        )
+        (layer TopLayer 
+            (type signal) (direction horizontal)
+        )
+        (layer BottomLayer 
+            (type signal) (direction vertical)
+        )
+        (keepout 
+            (path signal 12.0000 178.6850 21.0000 178.6850 1943.0000)
+        )
+        (keepout 
+            (path signal 12.0000 178.3700 1954.5030 2079.0000 1954.0000)
+        )
+        (keepout 
+            (path signal 12.0000 178.6850 31.0000 4820.0000 31.0000)
+        )
+        (keepout 
+            (path signal 12.0000 2068.0000 1954.0000 4872.0000 1953.9600)
+        )
+        (keepout 
+            (path signal 10.0000 4872.0000 34.4480 4872.0000 1953.9600)
+        )
+        (keepout 
+            (path signal 10.0000 4858.5510 31.0000 4872.0000 34.4480)
+        )
+        (keepout 
+            (path signal 10.0000 4820.0000 31.0000 4858.5510 31.0000)
+        )
+        (keepout 
+            (path signal 10.0000 436.7880 1421.0000 432.7797 1440.4540)
+        )
+        (keepout 
+            (path signal 10.0000 432.7797 1440.4540 421.4076 1456.7390)
+        )
+        (keepout 
+            (path signal 10.0000 421.4076 1456.7390 404.5243 1467.2022)
+        )
+        (keepout 
+            (path signal 10.0000 404.5243 1467.2022 384.8799 1470.1392)
+        )
+        (keepout 
+            (path signal 10.0000 384.8799 1470.1392 365.6746 1465.0715)
+        )
+        (keepout 
+            (path signal 10.0000 365.6746 1465.0715 350.0369 1452.8246)
+        )
+        (keepout 
+            (path signal 10.0000 350.0369 1452.8246 340.5140 1435.3937)
+        )
+        (keepout 
+            (path signal 10.0000 340.5140 1435.3937 338.6572 1415.6180)
+        )
+        (keepout 
+            (path signal 10.0000 338.6572 1415.6180 344.7690 1396.7190)
+        )
+        (keepout 
+            (path signal 10.0000 344.7690 1396.7190 357.8538 1381.7754)
+        )
+        (keepout 
+            (path signal 10.0000 357.8538 1381.7754 375.7801 1373.2213)
+        )
+        (keepout 
+            (path signal 10.0000 375.7801 1373.2213 395.6278 1372.4503)
+        )
+        (keepout 
+            (path signal 10.0000 395.6278 1372.4503 414.1637 1379.5879)
+        )
+        (keepout 
+            (path signal 10.0000 414.1637 1379.5879 428.3684 1393.4715)
+        )
+        (keepout 
+            (path signal 10.0000 428.3684 1393.4715 435.9279 1411.8393)
+        )
+        (keepout 
+            (path signal 10.0000 435.9279 1411.8393 436.7880 1421.0000)
+        )
+        (keepout 
+            (path signal 10.0000 4819.8580 1421.0000 4814.3618 1439.9548)
+        )
+        (keepout 
+            (path signal 10.0000 4814.3618 1439.9548 4799.5784 1453.0293)
+        )
+        (keepout 
+            (path signal 10.0000 4799.5784 1453.0293 4780.0939 1456.1673)
+        )
+        (keepout 
+            (path signal 10.0000 4780.0939 1456.1673 4761.9530 1448.3954)
+        )
+        (keepout 
+            (path signal 10.0000 4761.9530 1448.3954 4750.7837 1432.1247)
+        )
+        (keepout 
+            (path signal 10.0000 4750.7837 1432.1247 4750.0508 1412.4027)
+        )
+        (keepout 
+            (path signal 10.0000 4750.0508 1412.4027 4759.9818 1395.3479)
+        )
+        (keepout 
+            (path signal 10.0000 4759.9818 1395.3479 4777.4959 1386.2511)
+        )
+        (keepout 
+            (path signal 10.0000 4777.4959 1386.2511 4797.1595 1387.9345)
+        )
+        (keepout 
+            (path signal 10.0000 4797.1595 1387.9345 4812.8725 1399.8757)
+        )
+        (keepout 
+            (path signal 10.0000 4812.8725 1399.8757 4819.7603 1418.3703)
+        )
+        (keepout 
+            (path signal 10.0000 4819.7603 1418.3703 4819.8580 1421.0000)
+        )
+        (keepout 
+            (path signal 10.0000 2621.4330 1421.0000 2615.9368 1439.9548)
+        )
+        (keepout 
+            (path signal 10.0000 2615.9368 1439.9548 2601.1534 1453.0293)
+        )
+        (keepout 
+            (path signal 10.0000 2601.1534 1453.0293 2581.6689 1456.1673)
+        )
+        (keepout 
+            (path signal 10.0000 2581.6689 1456.1673 2563.5280 1448.3954)
+        )
+        (keepout 
+            (path signal 10.0000 2563.5280 1448.3954 2552.3587 1432.1247)
+        )
+        (keepout 
+            (path signal 10.0000 2552.3587 1432.1247 2551.6258 1412.4027)
+        )
+        (keepout 
+            (path signal 10.0000 2551.6258 1412.4027 2561.5568 1395.3479)
+        )
+        (keepout 
+            (path signal 10.0000 2561.5568 1395.3479 2579.0709 1386.2511)
+        )
+        (keepout 
+            (path signal 10.0000 2579.0709 1386.2511 2598.7345 1387.9345)
+        )
+        (keepout 
+            (path signal 10.0000 2598.7345 1387.9345 2614.4475 1399.8757)
+        )
+        (keepout 
+            (path signal 10.0000 2614.4475 1399.8757 2621.3353 1418.3703)
+        )
+        (keepout 
+            (path signal 10.0000 2621.3353 1418.3703 2621.4330 1421.0000)
+        )
+        (keepout 
+            (path signal 10.0000 2633.0000 1321.0000 2628.8085 1340.4018)
+        )
+        (keepout 
+            (path signal 10.0000 2628.8085 1340.4018 2616.9816 1356.3432)
+        )
+        (keepout 
+            (path signal 10.0000 2616.9816 1356.3432 2599.6288 1365.9806)
+        )
+        (keepout 
+            (path signal 10.0000 2599.6288 1365.9806 2579.8452 1367.5953)
+        )
+        (keepout 
+            (path signal 10.0000 2579.8452 1367.5953 2561.1593 1360.8991)
+        )
+        (keepout 
+            (path signal 10.0000 2561.1593 1360.8991 2546.9040 1347.0865)
+        )
+        (keepout 
+            (path signal 10.0000 2546.9040 1347.0865 2539.6220 1328.6211)
+        )
+        (keepout 
+            (path signal 10.0000 2539.6220 1328.6211 2540.6120 1308.7963)
+        )
+        (keepout 
+            (path signal 10.0000 2540.6120 1308.7963 2549.6975 1291.1482)
+        )
+        (keepout 
+            (path signal 10.0000 2549.6975 1291.1482 2565.2579 1278.8246)
+        )
+        (keepout 
+            (path signal 10.0000 2565.2579 1278.8246 2584.5180 1274.0234)
+        )
+        (keepout 
+            (path signal 10.0000 2584.5180 1274.0234 2604.0423 1277.6010)
+        )
+        (keepout 
+            (path signal 10.0000 2604.0423 1277.6010 2620.3486 1288.9193)
+        )
+        (keepout 
+            (path signal 10.0000 2620.3486 1288.9193 2630.5285 1305.9596)
+        )
+        (keepout 
+            (path signal 10.0000 2630.5285 1305.9596 2633.0000 1321.0000)
+        )
+        (keepout 
+            (path signal 10.0000 4824.4250 1311.0000 4819.5283 1330.1770)
+        )
+        (keepout 
+            (path signal 10.0000 4819.5283 1330.1770 4806.0371 1344.6588)
+        )
+        (keepout 
+            (path signal 10.0000 4806.0371 1344.6588 4787.2545 1350.8998)
+        )
+        (keepout 
+            (path signal 10.0000 4787.2545 1350.8998 4767.7791 1347.3719)
+        )
+        (keepout 
+            (path signal 10.0000 4767.7791 1347.3719 4752.3793 1334.9389)
+        )
+        (keepout 
+            (path signal 10.0000 4752.3793 1334.9389 4744.8253 1316.6448)
+        )
+        (keepout 
+            (path signal 10.0000 4744.8253 1316.6448 4746.9667 1296.9687)
+        )
+        (keepout 
+            (path signal 10.0000 4746.9667 1296.9687 4758.2793 1280.7279)
+        )
+        (keepout 
+            (path signal 10.0000 4758.2793 1280.7279 4775.9932 1271.8988)
+        )
+        (keepout 
+            (path signal 10.0000 4775.9932 1271.8988 4795.7715 1272.6430)
+        )
+        (keepout 
+            (path signal 10.0000 4795.7715 1272.6430 4812.7718 1282.7784)
+        )
+        (keepout 
+            (path signal 10.0000 4812.7718 1282.7784 4822.8318 1299.8234)
+        )
+        (keepout 
+            (path signal 10.0000 4822.8318 1299.8234 4824.4250 1311.0000)
+        )
+        (keepout 
+            (path signal 10.0000 434.5750 1321.0000 430.3835 1340.4018)
+        )
+        (keepout 
+            (path signal 10.0000 430.3835 1340.4018 418.5566 1356.3432)
+        )
+        (keepout 
+            (path signal 10.0000 418.5566 1356.3432 401.2038 1365.9806)
+        )
+        (keepout 
+            (path signal 10.0000 401.2038 1365.9806 381.4202 1367.5953)
+        )
+        (keepout 
+            (path signal 10.0000 381.4202 1367.5953 362.7343 1360.8991)
+        )
+        (keepout 
+            (path signal 10.0000 362.7343 1360.8991 348.4790 1347.0865)
+        )
+        (keepout 
+            (path signal 10.0000 348.4790 1347.0865 341.1970 1328.6211)
+        )
+        (keepout 
+            (path signal 10.0000 341.1970 1328.6211 342.1870 1308.7963)
+        )
+        (keepout 
+            (path signal 10.0000 342.1870 1308.7963 351.2725 1291.1482)
+        )
+        (keepout 
+            (path signal 10.0000 351.2725 1291.1482 366.8329 1278.8246)
+        )
+        (keepout 
+            (path signal 10.0000 366.8329 1278.8246 386.0930 1274.0234)
+        )
+        (keepout 
+            (path signal 10.0000 386.0930 1274.0234 405.6173 1277.6010)
+        )
+        (keepout 
+            (path signal 10.0000 405.6173 1277.6010 421.9236 1288.9193)
+        )
+        (keepout 
+            (path signal 10.0000 421.9236 1288.9193 432.1035 1305.9596)
+        )
+        (keepout 
+            (path signal 10.0000 432.1035 1305.9596 434.5750 1321.0000)
+        )
+        (grid wire 20.0000)
+        (grid via 20.0000)
+    )
+    (placement
+        (component 0805_C4
+            (place C4 4368.4960 1200.7480 front 0))
+        (component SOP20_U1
+            (place U1 4561.0980 1061.5590 front 0))
+        (component SOP20_U2
+            (place U2 1534.1050 603.9210 front 0))
+        (component 0805_C2
+            (place C2 1670.7010 694.4020 front 0))
+        (component 0805_C3
+            (place C3 609.7950 1194.8430 front 0))
+        (component 0805_R1
+            (place R1 1786.3390 693.8580 front 0))
+        (component PLCC20_U0
+            (place U0 405.1410 808.7000 front 0))
+        (component SIP3_JP2
+            (place JP2 548.0000 1674.9600 front 0))
+        (component SIP3_JP1
+            (place JP1 548.0000 1774.9610 front 0))
+        (component CMM50_CMMA
+            (place CMMA 4252.3970 230.9840 front 0))
+        (component SIMMr_SIMM1
+            (place SIMM1 2586.0000 1421.0000 front 0))
+    )
+    (library
+        (image 0805_C4
+            (pin Pad9 2 90.0000 0.0000 )
+            (pin Pad9 1 0.0000 0.0000 )
+        )
+        (image SOP20_U1
+            (pin Pad10 9 0.0000 -400.0000 )
+            (pin Pad10 8 0.0000 -350.0000 )
+            (pin Pad10 7 0.0000 -300.0000 )
+            (pin Pad10 6 0.0000 -250.0000 )
+            (pin Pad10 5 0.0000 -200.0000 )
+            (pin Pad10 4 0.0000 -150.0000 )
+            (pin Pad10 3 0.0000 -100.0000 )
+            (pin Pad10 2 0.0000 -50.0000 )
+            (pin Pad10 11 -291.3390 -450.0000 )
+            (pin Pad10 12 -291.3390 -400.0000 )
+            (pin Pad10 13 -291.3390 -350.0000 )
+            (pin Pad10 14 -291.3390 -300.0000 )
+            (pin Pad10 15 -291.3390 -250.0000 )
+            (pin Pad10 16 -291.3390 -200.0000 )
+            (pin Pad10 17 -291.3390 -150.0000 )
+            (pin Pad10 18 -291.3390 -100.0000 )
+            (pin Pad10 10 0.0000 -450.0000 )
+            (pin Pad10 19 -291.3390 -50.0000 )
+            (pin Pad11 1 0.0000 0.0000 )
+            (pin Pad10 20 -291.3390 0.0000 )
+        )
+        (image SOP20_U2
+            (pin Pad12 9 -400.0000 0.0000  (rotate 90))
+            (pin Pad12 2 -50.0000 0.0000  (rotate 90))
+            (pin Pad12 3 -100.0000 0.0000  (rotate 90))
+            (pin Pad12 4 -150.0000 0.0000  (rotate 90))
+            (pin Pad12 5 -200.0000 0.0000  (rotate 90))
+            (pin Pad12 6 -250.0000 0.0000  (rotate 90))
+            (pin Pad12 7 -300.0000 0.0000  (rotate 90))
+            (pin Pad12 8 -350.0000 0.0000  (rotate 90))
+            (pin Pad12 18 -100.0000 291.3390  (rotate 90))
+            (pin Pad12 17 -150.0000 291.3390  (rotate 90))
+            (pin Pad12 16 -200.0000 291.3390  (rotate 90))
+            (pin Pad12 15 -250.0000 291.3390  (rotate 90))
+            (pin Pad12 14 -300.0000 291.3390  (rotate 90))
+            (pin Pad12 13 -350.0000 291.3390  (rotate 90))
+            (pin Pad12 12 -400.0000 291.3390  (rotate 90))
+            (pin Pad12 11 -450.0000 291.3390  (rotate 90))
+            (pin Pad12 19 -50.0000 291.3390  (rotate 90))
+            (pin Pad12 10 -450.0000 0.0000  (rotate 90))
+            (pin Pad13 1 0.0000 0.0000  (rotate 90))
+            (pin Pad12 20 0.0000 291.3390  (rotate 90))
+        )
+        (image 0805_C2
+            (pin Pad14 1 0.0000 0.0000  (rotate 90))
+            (pin Pad14 2 0.0000 90.0000  (rotate 90))
+        )
+        (image 0805_C3
+            (pin Pad9 2 90.0000 0.0000 )
+            (pin Pad9 1 0.0000 0.0000 )
+        )
+        (image 0805_R1
+            (pin Pad14 2 0.0000 90.0000  (rotate 90))
+            (pin Pad14 1 0.0000 0.0000  (rotate 90))
+        )
+        (image PLCC20_U0
+            (pin Pad15 7 223.0000 173.0000  (rotate 270))
+            (pin Pad15 6 173.0000 173.0000  (rotate 270))
+            (pin Pad16 11 345.0000 0.0000  (rotate 270))
+            (pin Pad16 3 0.0000 101.0000  (rotate 270))
+            (pin Pad16 2 0.0000 50.0000  (rotate 270))
+            (pin Pad16 12 345.0000 -50.0000  (rotate 270))
+            (pin Pad16 19 0.0000 -100.0000  (rotate 270))
+            (pin Pad15 18 72.0000 -172.0000  (rotate 270))
+            (pin Pad15 17 123.0000 -172.0000  (rotate 270))
+            (pin Pad15 16 173.0000 -172.0000  (rotate 270))
+            (pin Pad15 15 223.0000 -172.0000  (rotate 270))
+            (pin Pad15 14 273.0000 -172.0000  (rotate 270))
+            (pin Pad16 13 345.0000 -100.0000  (rotate 270))
+            (pin Pad17 1 0.0000 0.0000  (rotate 270))
+            (pin Pad16 20 0.0000 -50.0000  (rotate 270))
+            (pin Pad16 10 345.0000 50.0000  (rotate 270))
+            (pin Pad15 8 273.0000 173.0000  (rotate 270))
+            (pin Pad16 9 345.0000 101.0000  (rotate 270))
+            (pin Pad15 4 72.0000 173.0000  (rotate 270))
+            (pin Pad15 5 123.0000 173.0000  (rotate 270))
+        )
+        (image SIP3_JP2
+            (pin Pad3 2 100.0000 0.0010 )
+            (pin Pad3 3 200.0000 0.0010 )
+            (pin Pad4 1 0.0000 0.0010 )
+        )
+        (image SIP3_JP1
+            (pin Pad3 2 100.0000 0.0000 )
+            (pin Pad3 3 200.0000 0.0000 )
+            (pin Pad4 1 0.0000 0.0000 )
+        )
+        (image CMM50_CMMA
+            (pin Pad5 2-26 -872.0000 1517.0000 )
+            (pin Pad5 2-25 -872.0000 1438.0000 )
+            (pin Pad5 2-24 -793.0000 1517.0000 )
+            (pin Pad5 2-23 -793.0000 1438.0000 )
+            (pin Pad5 2-22 -715.0000 1517.0000 )
+            (pin Pad5 2-20 -636.0000 1517.0000 )
+            (pin Pad5 2-18 -557.0000 1517.0000 )
+            (pin Pad5 2-16 -479.0000 1517.0000 )
+            (pin Pad5 2-14 -400.0000 1517.0000 )
+            (pin Pad5 2-12 -321.0000 1517.0000 )
+            (pin Pad5 2-10 -242.0000 1517.0000 )
+            (pin Pad5 2-8 -164.0000 1517.0000 )
+            (pin Pad5 2-6 -85.0000 1517.0000 )
+            (pin Pad5 2-4 -6.0000 1517.0000 )
+            (pin Pad5 2-21 -715.0000 1438.0000 )
+            (pin Pad5 2-19 -636.0000 1438.0000 )
+            (pin Pad5 2-17 -557.0000 1438.0000 )
+            (pin Pad5 2-15 -479.0000 1438.0000 )
+            (pin Pad5 2-13 -400.0000 1438.0000 )
+            (pin Pad5 2-11 -321.0000 1438.0000 )
+            (pin Pad5 2-9 -242.0000 1438.0000 )
+            (pin Pad5 2-7 -164.0000 1438.0000 )
+            (pin Pad5 2-5 -85.0000 1438.0000 )
+            (pin Pad5 2-3 -6.0000 1438.0000 )
+            (pin Pad5 2-1 73.0000 1438.0000 )
+            (pin Pad5 2-2 73.0000 1517.0000 )
+            (pin Pad5 1-23 -872.0000 1.0000 )
+            (pin Pad5 1-24 -872.0000 80.0000 )
+            (pin Pad5 1-21 -793.0000 1.0000 )
+            (pin Pad5 1-22 -793.0000 80.0000 )
+            (pin Pad5 1-19 -715.0000 1.0000 )
+            (pin Pad5 1-20 -715.0000 80.0000 )
+            (pin Pad5 1-18 -636.0000 80.0000 )
+            (pin Pad5 1-17 -636.0000 1.0000 )
+            (pin Pad5 1-15 -557.0000 1.0000 )
+            (pin Pad5 1-16 -557.0000 80.0000 )
+            (pin Pad5 1-13 -479.0000 1.0000 )
+            (pin Pad5 1-14 -479.0000 80.0000 )
+            (pin Pad5 1-11 -400.0000 1.0000 )
+            (pin Pad5 1-12 -400.0000 80.0000 )
+            (pin Pad5 1-9 -321.0000 1.0000 )
+            (pin Pad5 1-10 -321.0000 80.0000 )
+            (pin Pad5 1-7 -242.0000 1.0000 )
+            (pin Pad5 1-8 -242.0000 80.0000 )
+            (pin Pad5 1-5 -164.0000 1.0000 )
+            (pin Pad5 1-6 -164.0000 80.0000 )
+            (pin Pad5 1-3 -85.0000 1.0000 )
+            (pin Pad5 1-4 -85.0000 80.0000 )
+            (pin Pad5 1-1 -6.0000 1.0000 )
+            (pin Pad5 1-2 -6.0000 80.0000 )
+        )
+        (image SIMMr_SIMM1
+            (pin Pad6 70 -1775.0000 50.0000 )
+            (pin Pad7 1 1875.0000 -50.0000  (rotate 90))
+            (pin Pad8 2 1825.0000 50.0000  (rotate 90))
+            (pin Pad8 4 1725.0000 50.0000  (rotate 90))
+            (pin Pad8 6 1625.0000 50.0000  (rotate 90))
+            (pin Pad8 8 1525.0000 50.0000  (rotate 90))
+            (pin Pad8 10 1425.0000 50.0000  (rotate 90))
+            (pin Pad8 12 1325.0000 50.0000  (rotate 90))
+            (pin Pad8 14 1225.0000 50.0000  (rotate 90))
+            (pin Pad8 16 1125.0000 50.0000  (rotate 90))
+            (pin Pad8 18 1025.0000 50.0000  (rotate 90))
+            (pin Pad8 20 925.0000 50.0000  (rotate 90))
+            (pin Pad8 22 825.0000 50.0000  (rotate 90))
+            (pin Pad8 24 725.0000 50.0000  (rotate 90))
+            (pin Pad8 26 625.0000 50.0000  (rotate 90))
+            (pin Pad8 28 525.0000 50.0000  (rotate 90))
+            (pin Pad8 30 425.0000 50.0000  (rotate 90))
+            (pin Pad8 32 325.0000 50.0000  (rotate 90))
+            (pin Pad8 34 225.0000 50.0000  (rotate 90))
+            (pin Pad8 36 125.0000 50.0000  (rotate 90))
+            (pin Pad8 38 -175.0000 50.0000  (rotate 90))
+            (pin Pad8 40 -275.0000 50.0000  (rotate 90))
+            (pin Pad8 42 -375.0000 50.0000  (rotate 90))
+            (pin Pad8 44 -475.0000 50.0000  (rotate 90))
+            (pin Pad8 46 -575.0000 50.0000  (rotate 90))
+            (pin Pad8 48 -675.0000 50.0000  (rotate 90))
+            (pin Pad8 50 -775.0000 50.0000  (rotate 90))
+            (pin Pad8 52 -875.0000 50.0000  (rotate 90))
+            (pin Pad8 54 -975.0000 50.0000  (rotate 90))
+            (pin Pad8 56 -1075.0000 50.0000  (rotate 90))
+            (pin Pad8 58 -1175.0000 50.0000  (rotate 90))
+            (pin Pad8 60 -1275.0000 50.0000  (rotate 90))
+            (pin Pad8 62 -1375.0000 50.0000  (rotate 90))
+            (pin Pad8 64 -1475.0000 50.0000  (rotate 90))
+            (pin Pad8 66 -1575.0000 50.0000  (rotate 90))
+            (pin Pad8 68 -1675.0000 50.0000  (rotate 90))
+            (pin Pad8 72 -1875.0000 50.0000  (rotate 90))
+            (pin Pad8 3 1775.0000 -50.0000  (rotate 90))
+            (pin Pad8 5 1675.0000 -50.0000  (rotate 90))
+            (pin Pad8 7 1575.0000 -50.0000  (rotate 90))
+            (pin Pad8 9 1475.0000 -50.0000  (rotate 90))
+            (pin Pad8 11 1375.0000 -50.0000  (rotate 90))
+            (pin Pad8 13 1275.0000 -50.0000  (rotate 90))
+            (pin Pad8 15 1175.0000 -50.0000  (rotate 90))
+            (pin Pad8 17 1075.0000 -50.0000  (rotate 90))
+            (pin Pad8 19 975.0000 -50.0000  (rotate 90))
+            (pin Pad8 21 875.0000 -50.0000  (rotate 90))
+            (pin Pad8 23 775.0000 -50.0000  (rotate 90))
+            (pin Pad8 25 675.0000 -50.0000  (rotate 90))
+            (pin Pad8 27 575.0000 -50.0000  (rotate 90))
+            (pin Pad8 29 475.0000 -50.0000  (rotate 90))
+            (pin Pad8 31 375.0000 -50.0000  (rotate 90))
+            (pin Pad8 33 275.0000 -50.0000  (rotate 90))
+            (pin Pad8 35 175.0000 -50.0000  (rotate 90))
+            (pin Pad8 37 -125.0000 -50.0000  (rotate 90))
+            (pin Pad8 39 -225.0000 -50.0000  (rotate 90))
+            (pin Pad8 41 -325.0000 -50.0000  (rotate 90))
+            (pin Pad8 43 -425.0000 -50.0000  (rotate 90))
+            (pin Pad8 45 -525.0000 -50.0000  (rotate 90))
+            (pin Pad8 47 -625.0000 -50.0000  (rotate 90))
+            (pin Pad8 49 -725.0000 -50.0000  (rotate 90))
+            (pin Pad8 51 -825.0000 -50.0000  (rotate 90))
+            (pin Pad8 53 -925.0000 -50.0000  (rotate 90))
+            (pin Pad8 55 -1025.0000 -50.0000  (rotate 90))
+            (pin Pad8 57 -1125.0000 -50.0000  (rotate 90))
+            (pin Pad8 59 -1225.0000 -50.0000  (rotate 90))
+            (pin Pad8 61 -1325.0000 -50.0000  (rotate 90))
+            (pin Pad8 63 -1425.0000 -50.0000  (rotate 90))
+            (pin Pad8 65 -1525.0000 -50.0000  (rotate 90))
+            (pin Pad8 67 -1625.0000 -50.0000  (rotate 90))
+            (pin Pad8 69 -1725.0000 -50.0000  (rotate 90))
+            (pin Pad8 71 -1825.0000 -50.0000  (rotate 90))
+        )
+        (padstack Via0_TB_RoutingVias_1RoutingVias_2
+            (shape (circle signal 60.0000))
+        )
+        (padstack Via1_TB_RoutingVias
+            (shape (circle signal 50.0000))
+        )
+        (padstack Via2_TB
+            (shape (circle signal 50.0000))
+        )
+        (padstack Pad3
+            (shape (circle signal 65.0000))
+        )
+        (padstack Pad4
+            (shape (rect signal -32.5000 -32.5000 32.5000 32.5000))
+        )
+        (padstack Pad5
+            (shape (circle signal 50.0000))
+        )
+        (padstack Pad6
+            (shape (circle signal 60.0000))
+        )
+        (padstack Pad7
+            (shape (rect signal -30.0000 -30.0000 30.0000 30.0000))
+        )
+        (padstack Pad8
+            (shape (circle signal 60.0000))
+        )
+        (padstack Pad9
+            (shape (rect BottomLayer -30.0000 -25.0000 30.0000 25.0000))
+        )
+        (padstack Pad10
+            (shape (rect BottomLayer -29.5275 -13.7795 29.5275 13.7795))
+            (shape (circle BottomLayer 27.5590 -29.5275 0.0000))
+            (shape (circle BottomLayer 27.5590 29.5275 0.0000))
+        )
+        (padstack Pad11
+            (shape (rect BottomLayer -43.3070 -13.7795 43.3070 13.7795))
+        )
+        (padstack Pad12
+            (shape (rect BottomLayer -29.5275 -13.7795 29.5275 13.7795))
+            (shape (circle BottomLayer 27.5590 -29.5275 0.0000))
+            (shape (circle BottomLayer 27.5590 29.5275 0.0000))
+        )
+        (padstack Pad13
+            (shape (rect BottomLayer -43.3070 -13.7795 43.3070 13.7795))
+        )
+        (padstack Pad14
+            (shape (rect BottomLayer -30.0000 -25.0000 30.0000 25.0000))
+        )
+        (padstack Pad15
+            (shape (rect BottomLayer -28.0000 -12.0000 28.0000 12.0000))
+            (shape (circle BottomLayer 24.0000 -28.0000 0.0000))
+            (shape (circle BottomLayer 24.0000 28.0000 0.0000))
+        )
+        (padstack Pad16
+            (shape (rect BottomLayer -12.0000 -28.0000 12.0000 28.0000))
+            (shape (circle BottomLayer 24.0000 0.0000 -28.0000))
+            (shape (circle BottomLayer 24.0000 0.0000 28.0000))
+        )
+        (padstack Pad17
+            (shape (rect BottomLayer -12.0000 -28.0000 12.0000 28.0000))
+            (shape (circle BottomLayer 24.0000 0.0000 -28.0000))
+            (shape (circle BottomLayer 24.0000 0.0000 28.0000))
+        )
+    )
+    (network
+        (net BRAS0_1
+            (pins
+                SIMM1-34 SIMM1-44 U2-12 
+            )
+        )
+        (net R\A\S\_1
+            (pins
+                CMMA-1-12 U0-3 
+            )
+        )
+        (net C\A\S\_1
+            (pins
+                CMMA-2-13 U0-8 
+            )
+        )
+        (net W\E\_1
+            (pins
+                CMMA-1-11 R1-1 
+            )
+        )
+        (net BASEM1_1
+            (pins
+                CMMA-2-14 U0-9 
+            )
+        )
+        (net PD1_1
+            (pins
+                JP1-2 U0-4 
+            )
+        )
+        (net PD2_1
+            (pins
+                JP2-2 U0-5 
+            )
+        )
+        (net CAS0_1
+            (pins
+                U2-7 U0-13 
+            )
+        )
+        (net RAS0_1
+            (pins
+                U2-8 U0-14 
+            )
+        )
+        (net N00011
+            (pins
+                SIMM1-47 R1-2 
+            )
+        )
+        (net RAS1_1
+            (pins
+                U2-9 U0-19 
+            )
+        )
+        (net BCAS0_1
+            (pins
+                SIMM1-40 SIMM1-43 U2-13 
+            )
+        )
+        (net AB0_1
+            (pins
+                SIMM1-12 U1-18 
+            )
+        )
+        (net AB1_1
+            (pins
+                SIMM1-13 U1-17 
+            )
+        )
+        (net AB2_1
+            (pins
+                SIMM1-14 U1-16 
+            )
+        )
+        (net AB3_1
+            (pins
+                SIMM1-15 U1-15 
+            )
+        )
+        (net AB4_1
+            (pins
+                SIMM1-16 U1-14 
+            )
+        )
+        (net AB5_1
+            (pins
+                SIMM1-17 U1-13 
+            )
+        )
+        (net AB6_1
+            (pins
+                SIMM1-18 U1-12 
+            )
+        )
+        (net AB7_1
+            (pins
+                SIMM1-28 U1-11 
+            )
+        )
+        (net AB8_1
+            (pins
+                SIMM1-31 U2-16 
+            )
+        )
+        (net AB9_1
+            (pins
+                SIMM1-32 U2-15 
+            )
+        )
+        (net AB10_1
+            (pins
+                SIMM1-19 U2-18 
+            )
+        )
+        (net AB11_1
+            (pins
+                SIMM1-29 U2-17 
+            )
+        )
+        (net VCC
+            (pins
+                JP2-3 JP1-3 CMMA-2-26 CMMA-2-25 CMMA-2-1 CMMA-2-2 CMMA-1-23 
+                CMMA-1-24 CMMA-1-2 SIMM1-10 SIMM1-30 SIMM1-59 C4-1 U1-1 U1-20 
+                U2-1 U2-20 C2-1 C3-1 U0-7 U0-6 U0-20 
+            )
+        )
+        (net GND
+            (pins
+                JP2-1 JP1-1 CMMA-2-16 CMMA-2-12 CMMA-2-10 CMMA-2-15 CMMA-2-11 
+                CMMA-2-9 CMMA-1-13 CMMA-1-14 CMMA-1-9 CMMA-1-10 SIMM1-1 SIMM1-72 SIMM1-39 
+                C4-2 U1-10 U1-19 U2-19 U2-10 C2-2 C3-2 U0-11 
+                U0-10 
+            )
+        )
+        (net BRAS1_1
+            (pins
+                SIMM1-33 SIMM1-45 U2-11 
+            )
+        )
+        (net BCAS2_1
+            (pins
+                SIMM1-42 SIMM1-41 U2-14 
+            )
+        )
+        (net CAS2_1
+            (pins
+                U2-6 U0-12 
+            )
+        )
+        (net A10_1
+            (pins
+                CMMA-1-4 U2-2 U0-2 
+            )
+        )
+        (net A11_1
+            (pins
+                CMMA-1-7 U2-3 U0-1 
+            )
+        )
+        (net D0_1
+            (pins
+                CMMA-1-15 SIMM1-2 SIMM1-3 
+            )
+        )
+        (net D1_1
+            (pins
+                CMMA-1-16 SIMM1-4 SIMM1-5 
+            )
+        )
+        (net D2_1
+            (pins
+                CMMA-1-17 SIMM1-6 SIMM1-7 
+            )
+        )
+        (net D3_1
+            (pins
+                CMMA-1-18 SIMM1-8 SIMM1-9 
+            )
+        )
+        (net D4_1
+            (pins
+                CMMA-1-20 SIMM1-20 SIMM1-21 
+            )
+        )
+        (net D5_1
+            (pins
+                CMMA-1-19 SIMM1-22 SIMM1-23 
+            )
+        )
+        (net D6_1
+            (pins
+                CMMA-1-22 SIMM1-24 SIMM1-25 
+            )
+        )
+        (net D7_1
+            (pins
+                CMMA-1-21 SIMM1-26 SIMM1-27 
+            )
+        )
+        (net D8_1
+            (pins
+                CMMA-2-23 SIMM1-50 SIMM1-49 
+            )
+        )
+        (net D9_1
+            (pins
+                CMMA-2-24 SIMM1-52 SIMM1-51 
+            )
+        )
+        (net D10_1
+            (pins
+                CMMA-2-21 SIMM1-54 SIMM1-53 
+            )
+        )
+        (net D11_1
+            (pins
+                CMMA-2-22 SIMM1-56 SIMM1-55 
+            )
+        )
+        (net D12_1
+            (pins
+                CMMA-2-19 SIMM1-58 SIMM1-57 
+            )
+        )
+        (net D13_1
+            (pins
+                CMMA-2-20 SIMM1-60 SIMM1-61 
+            )
+        )
+        (net D14_1
+            (pins
+                CMMA-2-17 SIMM1-62 SIMM1-63 
+            )
+        )
+        (net D15_1
+            (pins
+                CMMA-2-18 SIMM1-64 SIMM1-65 
+            )
+        )
+        (net A0_1
+            (pins
+                CMMA-1-8 U1-2 
+            )
+        )
+        (net A1_1
+            (pins
+                CMMA-1-5 U1-3 
+            )
+        )
+        (net A2_1
+            (pins
+                CMMA-1-6 U1-4 
+            )
+        )
+        (net A3_1
+            (pins
+                CMMA-1-3 U1-5 
+            )
+        )
+        (net A4_1
+            (pins
+                CMMA-2-3 U1-6 
+            )
+        )
+        (net A5_1
+            (pins
+                CMMA-2-6 U1-7 
+            )
+        )
+        (net A6_1
+            (pins
+                CMMA-2-5 U1-8 
+            )
+        )
+        (net A7_1
+            (pins
+                CMMA-2-8 U1-9 
+            )
+        )
+        (net A8_1
+            (pins
+                CMMA-2-7 U2-4 
+            )
+        )
+        (net A9_1
+            (pins
+                CMMA-2-4 U2-5 
+            )
+        )
+    )
+    (wiring
+        (wire 
+            (path TopLayer 10.0000 1707.0000 381.0000 1709.0000 381.0000)
+            (net A8_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 1392.0000 381.0000 1707.0000 381.0000)
+            (net A8_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 1709.0000 381.0000 2626.0000 381.0000)
+            (net A8_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 1111.0000 1471.0000 1111.0000 1811.0000)
+            (net D15_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 1111.0000 1467.0000 1111.0000 1471.0000)
+            (net D15_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 1061.0000 1371.0000 1061.0000 1417.0000)
+            (net D15_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 1061.0000 1367.0000 1061.0000 1371.0000)
+            (net D15_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 1311.0000 1471.0000 1311.0000 1811.0000)
+            (net D13_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 1311.0000 1467.0000 1311.0000 1471.0000)
+            (net D13_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 1261.0000 1371.0000 1261.0000 1417.0000)
+            (net D13_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 1261.0000 1367.0000 1261.0000 1371.0000)
+            (net D13_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 1561.0000 1371.0000 1561.0000 1421.0000)
+            (net D11_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 1561.0000 1367.0000 1561.0000 1371.0000)
+            (net D11_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3460.0000 900.0000 3460.0000 1419.0000)
+            (net D4_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3695.3970 232.3970 3696.3970 232.3970)
+            (net D0_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 4569.0375 1198.0563 4573.0000 1204.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 4565.0000 1192.0000 4569.0375 1198.0563)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 3920.0000 1747.9840 3920.0000 1760.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 3920.0000 1747.9840 3931.3970 1747.9840)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 4566.0000 693.0000 4646.0000 613.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 4330.0000 370.0000 4360.0000 340.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 4300.0000 400.0000 4330.0000 370.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 3775.7210 319.3551 3777.0000 319.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 3773.3980 320.0000 3775.7210 319.3551)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 30.0000 1000.0000 860.0000 1000.0000 1032.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 30.0000 1000.0000 580.0000 1000.0000 860.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 30.0000 1000.0000 200.0000 1000.0000 580.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 30.0000 3380.0000 1668.9840 3380.0001 1668.9783)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 30.0000 3380.0001 1668.9783 3381.0000 1599.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 40.0000 3381.0000 1599.0000 3980.0000 1599.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 4240.0000 300.0000 4275.0000 300.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 4240.0000 300.0000 4240.0000 310.9840)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3853.0000 320.0000 3902.0000 271.0000)
+            (net R\A\S\_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 4330.0000 370.0000 4400.0000 440.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 30.0000 699.7950 1109.7950 922.2040 1109.7950)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 30.0000 922.2040 1109.7950 1000.0000 1032.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 30.0000 516.0000 760.0000 576.0000 820.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 30.0000 575.8580 1075.8580 576.0000 820.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 30.0000 575.8580 1075.8580 609.7950 1109.7950)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 40.0000 3773.3970 310.9840 3773.3970 364.6020)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 40.0000 3931.3970 310.9840 3931.3970 368.6020)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 40.0000 2361.0000 1293.0000 2361.0000 1371.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 1000.0000 200.0000 1140.0000 60.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 1140.0000 60.0000 3880.0000 60.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 30.0000 694.0000 1293.0000 694.0000 1403.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 30.0000 694.0000 1403.0000 711.0000 1420.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 711.0000 1420.0000 711.0000 1471.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 969.0000 1280.0000 1840.0000 1280.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 3880.0000 60.0000 3920.0000 100.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 3817.0000 359.0000 3883.0000 360.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 3920.0000 100.0000 4280.0000 100.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 4280.0000 100.0000 4360.0000 180.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 3957.0000 400.0000 4300.0000 400.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 4360.0000 180.0000 4360.0000 340.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 4400.0000 440.0000 4400.0000 520.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 4400.0000 520.0000 4566.0000 693.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 4565.0000 1192.0000 4566.0000 693.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 30.0000 3018.0000 1604.0000 3376.0000 1604.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 1480.0000 120.0000 3740.0000 120.0000)
+            (net R\A\S\_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3740.0000 120.0000 3760.0000 140.0000)
+            (net R\A\S\_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3760.0000 140.0000 4278.0000 140.0000)
+            (net R\A\S\_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3902.0000 271.0000 3960.0000 271.0000)
+            (net R\A\S\_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3960.0000 271.0000 3972.0000 283.0000)
+            (net R\A\S\_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 4278.0000 140.0000 4320.0000 182.0000)
+            (net R\A\S\_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3972.0000 283.0000 3972.0000 340.0000)
+            (net R\A\S\_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 4320.0000 182.0000 4320.0000 315.0000)
+            (net R\A\S\_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3852.3970 310.9840 3852.3980 310.9840)
+            (net R\A\S\_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3852.3980 310.9840 3852.3980 320.0000)
+            (net R\A\S\_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3852.3980 320.0000 3853.0000 320.0000)
+            (net R\A\S\_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3972.0000 340.0000 3992.0000 360.0000)
+            (net R\A\S\_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3992.0000 360.0000 4275.0000 360.0000)
+            (net R\A\S\_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 4275.0000 360.0000 4320.0000 315.0000)
+            (net R\A\S\_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 1962.3380 784.3380 1962.3380 1370.3380)
+            (net N00011)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 1961.0000 1371.0000 1962.3380 1370.3380)
+            (net N00011)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3556.0000 891.0000 3556.0000 1126.0000)
+            (net AB7_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3511.0000 1166.0000 3556.0000 1126.0000)
+            (net AB7_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 960.0000 1440.0000 980.0000 1420.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 980.0000 1420.0000 993.0000 1420.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 788.0000 1600.0000 920.0000 1600.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 960.0000 1440.0000 960.0000 1560.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 40.0000 748.0000 1674.9600 748.0000 1774.9600)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 748.0000 1640.0000 788.0000 1600.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 920.0000 1600.0000 960.0000 1560.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 748.0000 1640.0000 748.0000 1674.9600)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 1013.0000 1340.0000 1033.0000 1320.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 1033.0000 1320.0000 1310.0000 1320.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 1013.0000 1340.0000 1013.0000 1400.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 1310.0000 1320.0000 1361.0000 1371.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 1361.0000 1371.0000 1412.0000 1320.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 1412.0000 1320.0000 1789.0000 1320.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 1789.0000 1320.0000 1812.0000 1340.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 993.0000 1420.0000 1013.0000 1400.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 1812.0000 1340.0000 1812.0000 1400.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 1812.0000 1400.0000 1860.0000 1451.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 1860.0000 1451.0000 1860.0000 1520.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 1860.0000 1520.0000 1900.0000 1560.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 1900.0000 1560.0000 2100.0000 1560.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 2100.0000 1560.0000 2140.0000 1600.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 30.0000 2140.0000 1600.0000 2882.0000 1600.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 3380.3970 231.9840 3420.0000 192.3810)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 40.0000 3380.3970 231.9840 3380.3970 310.9840)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 3420.0000 192.0000 3420.0000 192.3810)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 3420.0000 192.0000 3432.0000 180.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 4240.0000 310.9840 4246.3970 310.9840)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 40.0000 3011.0000 791.0000 3331.0000 471.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 40.0000 3331.0000 360.3810 3380.3970 310.9840)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 40.0000 3011.0000 791.0000 3011.0000 1281.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 40.0000 3331.0000 360.3810 3331.0000 471.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 3432.0000 180.0000 4280.0000 180.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 4280.0000 180.0000 4295.0000 195.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 4295.0000 195.0000 4295.0000 280.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 4275.0000 300.0000 4295.0000 280.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 3011.0000 1281.0000 3011.0000 1471.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 30.0000 3376.0000 1604.0000 3381.0000 1599.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 3380.0000 1668.9840 3380.3970 1668.9840)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 40.0000 4325.3970 1668.9840 4325.3970 1747.9840)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 548.0000 1634.0000 548.0000 1674.9600)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 548.0000 1634.0000 711.0000 1471.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 40.0000 3773.3980 1668.9840 3773.3980 1747.9830)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 3760.0000 1747.9840 3773.3970 1747.9840)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 3773.3970 310.9840 3773.3980 310.9840)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 3773.3980 310.9840 3773.3980 320.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 40.0000 3773.3980 1747.9830 3774.0000 1748.5850)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 20.0000 3931.3970 1747.9840 3931.3980 1747.9840)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 40.0000 3774.0000 1748.5850 3774.0000 1819.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 40.0000 3896.0000 1851.0000 3931.3970 1815.6020)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 40.0000 3774.0000 1819.0000 3806.0000 1851.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 40.0000 3806.0000 1851.0000 3896.0000 1851.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 40.0000 3931.3970 1747.9840 3931.3970 1815.6020)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 50.0000 4010.3970 1747.9840 4010.3970 1795.3970)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 50.0000 4436.0000 1841.0000 4526.0000 1751.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 50.0000 4010.3970 1795.3970 4056.0000 1841.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 50.0000 4056.0000 1841.0000 4436.0000 1841.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 50.0000 4461.0000 1371.0000 4526.0000 1436.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 50.0000 4526.0000 1436.0000 4526.0000 1751.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 2148.0000 1224.0000 2351.0000 1224.0000)
+            (net BRAS1_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 2061.0000 1311.0000 2148.0000 1224.0000)
+            (net BRAS1_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 2061.0000 1311.0000 2061.0000 1371.0000)
+            (net BRAS1_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 2261.0000 1371.0000 2261.0000 1421.0000)
+            (net BCAS2_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 2211.0000 1471.0000 2261.0000 1421.0000)
+            (net BCAS2_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 1434.1050 257.8940 1441.0000 256.0000)
+            (net A11_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 1441.0000 256.0000 1646.0000 256.0000)
+            (net A11_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3695.3970 231.9840 3695.3970 232.3970)
+            (net D0_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3696.3970 232.3970 3735.0000 271.0000)
+            (net D0_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3735.0000 271.0000 3735.0000 373.0000)
+            (net D0_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3735.0000 373.0000 3787.0000 425.0000)
+            (net D0_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3787.0000 425.0000 4281.0000 425.0000)
+            (net D0_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 4281.0000 425.0000 4361.0000 505.0000)
+            (net D0_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 4361.0000 505.0000 4361.0000 1371.0000)
+            (net D0_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 4361.0000 1371.0000 4411.0000 1421.0000)
+            (net D0_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 4411.0000 1421.0000 4411.0000 1471.0000)
+            (net D0_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3695.3970 310.9840 3695.3970 400.3970)
+            (net D1_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3695.3970 400.3970 3766.0000 471.0000)
+            (net D1_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3766.0000 471.0000 4202.0000 472.0000)
+            (net D1_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 4202.0000 472.0000 4261.0000 530.0000)
+            (net D1_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 4261.0000 530.0000 4261.0000 1371.0000)
+            (net D1_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 4261.0000 1371.0000 4311.0000 1421.0000)
+            (net D1_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 4311.0000 1421.0000 4311.0000 1471.0000)
+            (net D1_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3616.3970 231.9840 3616.9840 231.9840)
+            (net D2_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3616.9840 231.9840 3656.0000 271.0000)
+            (net D2_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3656.0000 271.0000 3656.0000 439.0000)
+            (net D2_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3656.0000 439.0000 3735.0000 518.0000)
+            (net D2_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3735.0000 518.0000 4108.0000 518.0000)
+            (net D2_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 4108.0000 518.0000 4161.0000 571.0000)
+            (net D2_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 4161.0000 571.0000 4161.0000 1371.0000)
+            (net D2_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 4161.0000 1371.0000 4211.0000 1421.0000)
+            (net D2_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 4211.0000 1421.0000 4211.0000 1471.0000)
+            (net D2_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3616.3970 310.9840 3616.3970 476.3970)
+            (net D3_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3616.3970 476.3970 3715.0000 575.0000)
+            (net D3_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3715.0000 575.0000 4013.0000 575.0000)
+            (net D3_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 4013.0000 575.0000 4059.0000 621.0000)
+            (net D3_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 4059.0000 621.0000 4059.0000 1353.0000)
+            (net D3_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 4059.0000 1353.0000 4061.0000 1371.0000)
+            (net D3_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 4061.0000 1371.0000 4111.0000 1421.0000)
+            (net D3_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 4111.0000 1421.0000 4111.0000 1471.0000)
+            (net D3_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3460.0000 900.0000 3537.0000 822.0000)
+            (net D4_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3537.0000 312.9840 3537.3970 310.9840)
+            (net D4_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3460.0000 1419.0000 3511.0000 1471.0000)
+            (net D4_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3537.0000 312.9840 3537.0000 822.0000)
+            (net D4_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3361.0000 799.0000 3361.0000 1371.0000)
+            (net D5_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3361.0000 799.0000 3498.0000 662.0000)
+            (net D5_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3361.0000 1371.0000 3361.0000 1421.0000)
+            (net D5_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3498.0000 271.3810 3537.3970 231.9840)
+            (net D5_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3361.0000 1421.0000 3411.0000 1471.0000)
+            (net D5_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3498.0000 271.3810 3498.0000 662.0000)
+            (net D5_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3261.0000 1371.0000 3261.0000 1421.0000)
+            (net D6_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3261.0000 1421.0000 3311.0000 1471.0000)
+            (net D6_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3459.3970 310.9840 3460.0000 347.9840)
+            (net D6_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3460.0000 347.9840 3460.0000 557.0000)
+            (net D6_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3261.0000 756.0000 3261.0000 1371.0000)
+            (net D6_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3261.0000 756.0000 3460.0000 557.0000)
+            (net D6_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3161.0000 770.0000 3161.0000 1371.0000)
+            (net D7_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3161.0000 770.0000 3420.0000 511.0000)
+            (net D7_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3161.0000 1371.0000 3161.0000 1421.0000)
+            (net D7_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3420.0000 271.3810 3459.3970 231.9840)
+            (net D7_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3161.0000 1421.0000 3211.0000 1471.0000)
+            (net D7_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3420.0000 271.3810 3420.0000 511.0000)
+            (net D7_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 1711.0000 1471.0000 1761.0000 1422.0000)
+            (net D9_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 1711.0000 1471.0000 1711.0000 1786.0000)
+            (net D9_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 1711.0000 1786.0000 1746.0000 1820.0000)
+            (net D9_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 1761.0000 1371.0000 1761.0000 1422.0000)
+            (net D9_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 1746.0000 1820.0000 3441.0000 1821.0000)
+            (net D9_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3459.3970 1747.9840 3459.3970 1802.6020)
+            (net D9_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3441.0000 1821.0000 3459.3970 1802.6020)
+            (net D9_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 1511.0000 1471.0000 1561.0000 1421.0000)
+            (net D11_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 1511.0000 1471.0000 1511.0000 1811.0000)
+            (net D11_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 1511.0000 1811.0000 1551.0000 1851.0000)
+            (net D11_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 1551.0000 1851.0000 3511.0000 1851.0000)
+            (net D11_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3537.3970 1747.9840 3537.3970 1824.6020)
+            (net D11_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3511.0000 1851.0000 3537.3970 1824.6020)
+            (net D11_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 1261.0000 1417.0000 1311.0000 1467.0000)
+            (net D13_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3616.3970 1747.9840 3616.3970 1850.6020)
+            (net D13_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 1311.0000 1811.0000 1381.0000 1881.0000)
+            (net D13_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 1381.0000 1881.0000 3586.0000 1881.0000)
+            (net D13_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3586.0000 1881.0000 3616.3970 1850.6020)
+            (net D13_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 1061.0000 1417.0000 1111.0000 1467.0000)
+            (net D15_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3695.3970 1747.9840 3695.3970 1846.6020)
+            (net D15_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 1111.0000 1811.0000 1211.0000 1911.0000)
+            (net D15_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 1211.0000 1911.0000 3631.0000 1911.0000)
+            (net D15_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 3631.0000 1911.0000 3695.3970 1846.6020)
+            (net D15_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 2626.0000 381.0000 2706.0000 461.0000)
+            (net A8_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 2706.0000 1391.0000 2746.0000 1431.0000)
+            (net A8_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 2706.0000 461.0000 2706.0000 1391.0000)
+            (net A8_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 2746.0000 1431.0000 2760.0000 1431.0000)
+            (net A8_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 2760.0000 1431.0000 2760.0000 1502.0000)
+            (net A8_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 2760.0000 1502.0000 2818.0000 1560.0000)
+            (net A8_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 2818.0000 1560.0000 4046.0000 1560.0000)
+            (net A8_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 4046.0000 1560.0000 4060.0000 1574.0000)
+            (net A8_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 4060.0000 1574.0000 4060.0000 1640.5860)
+            (net A8_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 4060.0000 1640.5860 4088.3970 1668.9840)
+            (net A8_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 1334.0000 300.0000 2716.0000 300.0000)
+            (net A9_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 2716.0000 300.0000 2810.0000 394.0000)
+            (net A9_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 2810.0000 394.0000 2810.0000 1394.0000)
+            (net A9_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 2810.0000 1394.0000 2846.0000 1431.0000)
+            (net A9_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 2846.0000 1431.0000 2860.0000 1431.0000)
+            (net A9_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 2860.0000 1431.0000 2860.0000 1498.0000)
+            (net A9_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 2860.0000 1498.0000 2882.0000 1520.0000)
+            (net A9_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 2882.0000 1520.0000 4132.0000 1520.0000)
+            (net A9_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 4132.0000 1520.0000 4207.0000 1595.0000)
+            (net A9_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 4207.0000 1595.0000 4207.0000 1709.0000)
+            (net A9_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 4207.0000 1709.0000 4245.9840 1747.9840)
+            (net A9_1)
+            (type normal)
+        )
+        (wire 
+            (path TopLayer 10.0000 4245.9840 1747.9840 4246.3970 1747.9840)
+            (net A9_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1384.1050 372.1050 1384.1050 603.9210)
+            (net A8_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4246.6761 1669.2771 4246.9840 1668.9840)
+            (net A4_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4206.0000 1708.0000 4246.6761 1669.2771)
+            (net A4_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1461.0000 1371.0000 1461.0000 1417.0000)
+            (net D12_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1461.0000 1367.0000 1461.0000 1371.0000)
+            (net D12_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1411.0000 1471.0000 1411.0000 1809.0000)
+            (net D12_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1411.0000 1467.0000 1411.0000 1471.0000)
+            (net D12_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1611.0000 1472.0000 1661.0000 1422.0000)
+            (net D10_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 4461.0000 1200.7480 4461.0000 1371.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 4565.0000 1200.7480 4569.7480 1200.7480)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 4461.0000 1200.7480 4565.0000 1200.7480)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 4458.4960 1200.7480 4461.0000 1200.7480)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 40.0000 3936.0000 1747.9840 4010.3970 1747.9840)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 40.0000 3931.3970 1747.9840 3936.0000 1747.9840)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 40.0000 3936.0000 1668.9840 4010.3970 1668.9840)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 40.0000 3931.3970 1668.9840 3936.0000 1668.9840)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 40.0000 3936.0000 1668.9840 3936.0000 1747.9840)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 25.0000 4561.0980 611.5590 4644.5590 611.5590)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 3773.3970 1668.9840 3773.3980 1668.9840)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 3760.0000 1668.9840 3773.3970 1668.9840)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 3773.0000 310.9840 3773.3970 310.9840)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 3760.0000 310.9840 3773.0000 310.9840)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 40.0000 3773.0000 310.9840 3773.0000 312.9840)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 40.0000 3773.0000 233.9840 3773.0000 310.9840)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 30.0000 1000.0000 580.0000 1084.1050 580.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 4320.0000 1660.0000 4325.3970 1660.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 4066.2520 1200.7480 4360.0000 1200.7480)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 4360.0000 1160.0000 4360.0000 1200.7480)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 25.0000 4340.0000 1061.5590 4561.0980 1061.5590)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 40.0000 3380.3980 310.9840 3380.3980 520.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 40.0000 3380.3980 310.9830 3380.3980 310.9840)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 30.0000 609.7950 1194.8430 609.7950 1319.7950)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 30.0000 609.7950 1194.8420 609.7950 1194.8430)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 30.0000 609.7950 1109.7950 609.7950 1194.8420)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 433.1420 758.0000 433.1420 758.7000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 402.0000 760.0000 516.0000 760.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3061.0000 1081.0000 3061.0000 1371.0000)
+            (net AB11_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3561.0000 1139.0000 3561.0000 1371.0000)
+            (net AB10_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3911.0000 1471.0000 3911.0000 1472.0000)
+            (net AB0_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3911.0000 1130.0000 3911.0000 1471.0000)
+            (net AB0_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4074.8230 531.0000 4326.0000 531.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1084.1050 895.2600 1084.1050 963.1050)
+            (net BRAS1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1084.1050 963.1050 1382.0000 1261.0000)
+            (net BRAS1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1134.1050 963.1050 1390.0000 1219.0000)
+            (net BRAS0_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1134.1050 895.2600 1134.1050 963.1050)
+            (net BRAS0_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 30.0000 699.7950 1109.7950 699.7950 1194.8420)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 578.1410 981.7000 628.1410 981.7000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 578.1410 981.7000 578.2820 1078.2820)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 578.2820 1078.2820 609.7950 1109.7950)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1060.0000 1100.0000 1060.0000 1285.0000)
+            (net C\A\S\_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1026.0000 1066.0000 1060.0000 1100.0000)
+            (net C\A\S\_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 701.0000 1066.0000 1026.0000 1066.0000)
+            (net C\A\S\_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 678.1410 1043.1410 701.0000 1066.0000)
+            (net C\A\S\_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 678.1410 981.7000 678.1410 1043.1410)
+            (net C\A\S\_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 40.0000 3010.0000 1628.0000 3011.0000 1471.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 22.0000 4011.0000 1256.0000 4011.0000 1471.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 40.0000 4011.0000 1471.0000 4011.0000 1569.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 249.0000 271.0000 249.0000 844.0000)
+            (net R\A\S\_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 314.7000 909.7000 405.1410 909.7000)
+            (net R\A\S\_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 249.0000 844.0000 314.7000 909.7000)
+            (net R\A\S\_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 297.0000 297.0000 297.0000 768.0000)
+            (net A11_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 337.7000 808.7000 405.1410 808.7000)
+            (net A11_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 297.0000 768.0000 337.7000 808.7000)
+            (net A11_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 750.1410 858.7000 915.9990 858.7000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 25.0000 916.0000 858.7000 998.7000 858.7000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 25.0000 1000.0000 860.0000 1030.8940 829.1050)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 998.7000 858.7000 1000.0000 860.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 25.0000 1030.8940 829.1050 1484.1050 829.1050)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 25.0000 1484.1050 829.1050 1484.1050 895.2600)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 25.0000 4644.5590 611.5590 4645.0000 612.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 4569.7480 1200.7480 4573.0000 1204.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 750.1410 808.7010 863.2990 808.7010)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1134.1050 546.1050 1134.1050 603.9210)
+            (net RAS1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 405.0000 539.0000 405.0000 678.0000)
+            (net RAS1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1097.0000 510.0000 1134.1050 546.1050)
+            (net RAS1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 434.0000 510.0000 1097.0000 510.0000)
+            (net RAS1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 405.0000 539.0000 434.0000 510.0000)
+            (net RAS1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1134.1050 895.2600 1134.1060 924.7880)
+            (net BRAS0_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1390.0000 1219.0000 2080.0000 1220.0000)
+            (net BRAS0_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 2080.0000 1220.0000 2111.0000 1251.0000)
+            (net BRAS0_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 2111.0000 1251.0000 2111.0000 1471.0000)
+            (net BRAS0_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 2111.0000 1471.0000 2180.0000 1540.0000)
+            (net BRAS0_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 2180.0000 1540.0000 2742.0000 1540.0000)
+            (net BRAS0_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 2742.0000 1540.0000 2811.0000 1471.0000)
+            (net BRAS0_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 400.0000 120.0000 1480.0000 120.0000)
+            (net R\A\S\_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 249.0000 271.0000 400.0000 120.0000)
+            (net R\A\S\_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1060.0000 1285.0000 1095.0000 1320.0000)
+            (net C\A\S\_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1095.0000 1320.0000 1900.0000 1320.0000)
+            (net C\A\S\_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1900.0000 1320.0000 1911.0000 1331.0000)
+            (net C\A\S\_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1911.0000 1386.0000 1960.0000 1435.0000)
+            (net C\A\S\_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1911.0000 1331.0000 1911.0000 1386.0000)
+            (net C\A\S\_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1960.0000 1435.0000 1960.0000 1640.0000)
+            (net C\A\S\_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3360.0000 1620.0000 3804.0000 1620.0000)
+            (net C\A\S\_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3300.0000 1680.0000 3360.0000 1620.0000)
+            (net C\A\S\_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3804.0000 1620.0000 3820.0000 1636.0000)
+            (net C\A\S\_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1960.0000 1640.0000 2000.0000 1680.0000)
+            (net C\A\S\_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 2000.0000 1680.0000 3300.0000 1680.0000)
+            (net C\A\S\_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3820.0000 1636.0000 3820.0000 1636.5860)
+            (net C\A\S\_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3820.0000 1636.5860 3852.3970 1668.9840)
+            (net C\A\S\_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1880.0000 340.0000 1880.0000 660.0000)
+            (net W\E\_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1880.0000 340.0000 1920.0000 300.0000)
+            (net W\E\_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1840.0000 700.0000 1880.0000 660.0000)
+            (net W\E\_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1796.3380 693.8580 1802.4800 700.0000)
+            (net W\E\_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1802.4800 700.0000 1840.0000 700.0000)
+            (net W\E\_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3200.0000 300.0000 3314.0000 186.0000)
+            (net W\E\_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3314.0000 186.0000 3807.0000 186.0000)
+            (net W\E\_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3807.0000 186.0000 3820.0000 199.0000)
+            (net W\E\_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3820.0000 199.0000 3820.0000 199.5860)
+            (net W\E\_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1920.0000 300.0000 3200.0000 300.0000)
+            (net W\E\_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3820.0000 199.5860 3852.3970 231.9840)
+            (net W\E\_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 276.0000 1112.0000 468.0000 920.0000)
+            (net BASEM1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 468.0000 920.0000 700.0000 919.7000)
+            (net BASEM1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 700.0000 919.7000 712.0000 907.7000)
+            (net BASEM1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 276.0000 1112.0000 276.0000 1616.0000)
+            (net BASEM1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 276.0000 1616.0000 580.0000 1920.0000)
+            (net BASEM1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 580.0000 1920.0000 3740.0000 1920.0000)
+            (net BASEM1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 712.0000 907.7000 722.1420 909.7000)
+            (net BASEM1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 722.1420 909.7000 750.1410 909.7000)
+            (net BASEM1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3830.0000 1770.3810 3830.0000 1830.0000)
+            (net BASEM1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3740.0000 1920.0000 3830.0000 1830.0000)
+            (net BASEM1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3830.0000 1770.3810 3852.3970 1747.9840)
+            (net BASEM1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 477.0000 981.8420 477.1410 981.7000)
+            (net PD1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 477.0000 981.8420 477.0000 1237.0000)
+            (net PD1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 477.0000 1237.0000 520.0000 1280.0000)
+            (net PD1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 520.0000 1280.0000 520.0000 1530.0000)
+            (net PD1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 520.0000 1530.0000 600.0000 1610.0000)
+            (net PD1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 600.0000 1610.0000 600.0000 1730.0000)
+            (net PD1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 600.0000 1730.0000 644.9600 1774.9600)
+            (net PD1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 644.9600 1774.9600 648.0000 1774.9600)
+            (net PD1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 528.0000 1113.0000 528.1410 1028.8580)
+            (net PD2_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 528.0000 1113.0000 528.0000 1232.0000)
+            (net PD2_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 528.0000 1232.0000 560.0000 1264.0000)
+            (net PD2_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 528.1410 981.7000 528.1410 1028.8580)
+            (net PD2_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 560.0000 1264.0000 560.0000 1520.0000)
+            (net PD2_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 560.0000 1520.0000 648.0000 1608.0000)
+            (net PD2_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 648.0000 1608.0000 648.0000 1674.9600)
+            (net PD2_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1234.1050 603.9210 1234.1050 677.8940)
+            (net CAS0_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1203.2990 708.7000 1234.1050 677.8940)
+            (net CAS0_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 750.1410 708.7000 1203.2990 708.7000)
+            (net CAS0_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1184.1050 603.9210 1184.1050 652.8940)
+            (net RAS0_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1157.0000 680.0000 1184.1050 652.8940)
+            (net RAS0_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 865.0000 680.0000 1157.0000 680.0000)
+            (net RAS0_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 821.7000 636.7000 865.0000 680.0000)
+            (net RAS0_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 678.1410 636.7000 821.7000 636.7000)
+            (net RAS0_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1796.3380 783.8580 1839.3380 783.8580)
+            (net N00011)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1839.3380 783.8580 1874.0000 784.0000)
+            (net N00011)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1874.0000 784.0000 1962.3380 784.3380)
+            (net N00011)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 405.1410 678.1410 405.1410 708.7000)
+            (net RAS1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 405.0000 678.0000 405.1410 678.1410)
+            (net RAS1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1184.1050 895.2600 1184.1050 963.1050)
+            (net BCAS0_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1184.1050 963.1050 1400.0000 1179.0000)
+            (net BCAS0_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1400.0000 1179.0000 2120.0000 1180.0000)
+            (net BCAS0_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 2120.0000 1180.0000 2161.0000 1221.0000)
+            (net BCAS0_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 2161.0000 1221.0000 2161.0000 1371.0000)
+            (net BCAS0_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 2161.0000 1371.0000 2161.0000 1406.0000)
+            (net BCAS0_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 2161.0000 1406.0000 2176.0000 1421.0000)
+            (net BCAS0_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 2176.0000 1421.0000 2301.0000 1421.0000)
+            (net BCAS0_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 2301.0000 1421.0000 2311.0000 1431.0000)
+            (net BCAS0_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 2311.0000 1431.0000 2311.0000 1471.0000)
+            (net BCAS0_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3911.0000 1130.0000 4079.4400 961.5590)
+            (net AB0_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4079.4400 961.5590 4269.7590 961.5590)
+            (net AB0_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3861.0000 1130.0000 4079.4400 911.5590)
+            (net AB1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3861.0000 1130.0000 3861.0000 1371.0000)
+            (net AB1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4079.4400 911.5590 4269.7590 911.5590)
+            (net AB1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3811.0000 1130.0000 3811.0000 1471.0000)
+            (net AB2_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3811.0000 1130.0000 4079.4400 860.5590)
+            (net AB2_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4079.4400 860.5590 4269.7590 861.5590)
+            (net AB2_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3761.0000 1130.0000 3761.0000 1371.0000)
+            (net AB3_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3761.0000 1130.0000 4081.4400 811.5590)
+            (net AB3_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4081.4400 811.5590 4269.7590 811.5590)
+            (net AB3_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3711.0000 1130.0000 3711.0000 1471.0000)
+            (net AB4_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3711.0000 1130.0000 4078.4400 761.5590)
+            (net AB4_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4078.4400 761.5590 4269.7590 761.5590)
+            (net AB4_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3661.0000 1129.0000 4079.0000 712.0000)
+            (net AB5_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4079.0000 712.0000 4262.1990 712.0000)
+            (net AB5_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3661.0000 1129.0000 3661.0000 1371.0000)
+            (net AB5_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4262.1990 712.0000 4269.7590 711.5590)
+            (net AB5_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3611.0000 1128.0000 3611.0000 1471.0000)
+            (net AB6_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3611.0000 1128.0000 4077.4400 661.5590)
+            (net AB6_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4077.4400 661.5590 4269.7590 661.5590)
+            (net AB6_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3111.0000 1216.0000 3161.0000 1166.0000)
+            (net AB7_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3161.0000 1166.0000 3511.0000 1166.0000)
+            (net AB7_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3111.0000 1216.0000 3111.0000 1471.0000)
+            (net AB7_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3791.0000 891.0000 4070.4400 611.5590)
+            (net AB7_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4070.4400 611.5590 4269.7590 611.5590)
+            (net AB7_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3556.0000 891.0000 3791.0000 891.0000)
+            (net AB7_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1334.1050 895.2600 1334.1050 963.1050)
+            (net AB8_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1334.1050 963.1050 1432.0000 1061.0000)
+            (net AB8_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1432.0000 1061.0000 2911.0000 1061.0000)
+            (net AB8_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 2911.0000 1061.0000 2961.0000 1111.0000)
+            (net AB8_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 2961.0000 1111.0000 2961.0000 1371.0000)
+            (net AB8_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1284.1050 895.2600 1284.1050 963.1050)
+            (net AB9_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1284.1050 963.1050 1421.0000 1100.0000)
+            (net AB9_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1421.0000 1100.0000 2885.0000 1100.0000)
+            (net AB9_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 2885.0000 1100.0000 2911.0000 1126.0000)
+            (net AB9_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 2911.0000 1126.0000 2911.0000 1471.0000)
+            (net AB9_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1434.1050 895.2600 1434.1050 963.1050)
+            (net AB10_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1434.1050 963.1050 1466.0000 995.0000)
+            (net AB10_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1466.0000 995.0000 3051.0000 996.0000)
+            (net AB10_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3051.0000 996.0000 3161.0000 1106.0000)
+            (net AB10_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3161.0000 1106.0000 3529.0000 1107.0000)
+            (net AB10_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3529.0000 1107.0000 3561.0000 1139.0000)
+            (net AB10_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3561.0000 1371.0000 3561.0000 1372.0000)
+            (net AB10_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1384.1050 895.2600 1384.1050 963.1050)
+            (net AB11_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1384.1050 963.1050 1442.0000 1021.0000)
+            (net AB11_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1442.0000 1021.0000 3001.0000 1021.0000)
+            (net AB11_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3001.0000 1021.0000 3061.0000 1081.0000)
+            (net AB11_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3061.0000 1371.0000 3061.0000 1372.0000)
+            (net AB11_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 405.1410 758.7000 433.1420 758.7000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 1534.1050 603.9210 1534.1060 633.4480)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 1534.1060 633.4480 1534.1060 650.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 25.0000 1534.1060 650.0000 1534.1060 895.2600)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 25.0000 1534.1050 895.2600 1534.1060 895.2600)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 1670.7000 694.4010 1670.7000 700.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 1660.0000 700.0000 1670.7000 700.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 1720.0000 720.0000 1720.0000 820.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 1720.0000 820.0000 1760.0000 860.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 40.0000 1760.0000 860.0000 3040.0000 860.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 30.0000 609.7950 1319.7950 631.0000 1341.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 30.0000 630.7950 1501.8420 631.0000 1341.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 30.0000 630.7950 1501.8420 748.0000 1618.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 30.0000 748.0000 1618.0000 748.0000 1674.9600)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 3380.3970 310.9840 3380.3980 310.9840)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 40.0000 3040.0000 860.0000 3380.0000 520.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 3380.0000 520.0000 3380.3980 520.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 4269.7590 1061.5590 4340.0000 1061.5590)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 4340.0000 1061.5590 4340.0000 1140.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 4340.0000 1140.0000 4360.0000 1160.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 40.0000 3380.3970 1668.9840 3380.3970 1747.9840)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 3380.0000 1668.9840 3380.3970 1668.9840)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 3380.3970 1747.9840 3380.3980 1747.9840)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 40.0000 3980.0000 1600.0000 4011.0000 1569.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 40.0000 3980.0000 1600.0000 4260.0000 1600.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 4011.0000 1256.0000 4066.2520 1200.7480)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 4360.0000 1200.7480 4368.4960 1200.7480)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 40.0000 4260.0000 1600.0000 4320.0000 1660.0000)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 4325.3970 1660.0000 4325.3970 1668.9840)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 4325.3970 1747.9840 4325.3980 1747.9840)
+            (net VCC)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 1084.1050 580.0000 1084.1050 603.9210)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 3760.0000 231.9840 3773.3970 231.9840)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 1484.1050 895.2600 1484.1050 944.1050)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 1670.7000 784.4010 1670.7000 911.2990)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 1484.1050 944.1050 1501.0000 961.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 1501.0000 961.0000 1621.0000 961.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 1621.0000 961.0000 1670.7000 911.2990)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 548.0000 1674.9600 548.0000 1774.9600)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 3773.3970 310.9840 3773.3980 310.9840)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 40.0000 3931.3970 231.9840 3931.3970 310.9840)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 40.0000 3931.3970 310.9840 3931.3970 336.3970)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4326.0000 531.0000 4336.0000 541.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4336.0000 541.0000 4336.0000 1001.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 20.0000 4560.0000 611.5590 4561.0980 611.5590)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 40.0000 4010.3970 1668.9840 4010.3970 1747.9840)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4325.4400 1011.5590 4336.0000 1001.0000)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4269.7590 1011.5590 4325.4400 1011.5590)
+            (net GND)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1382.0000 1261.0000 2032.0000 1261.0000)
+            (net BRAS1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 2032.0000 1261.0000 2061.0000 1290.0000)
+            (net BRAS1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 2061.0000 1290.0000 2061.0000 1371.0000)
+            (net BRAS1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 2351.0000 1224.0000 2826.0000 1224.0000)
+            (net BRAS1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 2826.0000 1224.0000 2861.0000 1259.0000)
+            (net BRAS1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 2861.0000 1259.0000 2861.0000 1371.0000)
+            (net BRAS1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1234.1050 895.2600 1234.1050 920.0000)
+            (net BCAS2_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1234.1050 920.0000 1235.0000 903.0000)
+            (net BCAS2_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1235.0000 903.0000 1235.0000 963.0000)
+            (net BCAS2_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1235.0000 963.0000 1411.0000 1139.0000)
+            (net BCAS2_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1411.0000 1139.0000 2160.0000 1140.0000)
+            (net BCAS2_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 2160.0000 1140.0000 2261.0000 1241.0000)
+            (net BCAS2_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 2261.0000 1241.0000 2261.0000 1371.0000)
+            (net BCAS2_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1284.1050 603.9210 1284.1050 692.8940)
+            (net CAS2_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1218.2990 758.7000 1284.1050 692.8940)
+            (net CAS2_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 750.1410 758.7000 1218.2990 758.7000)
+            (net CAS2_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 349.1050 207.8940 1440.1050 207.8940)
+            (net A10_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 273.0000 284.0000 349.1050 207.8940)
+            (net A10_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1440.1050 207.8940 1462.1050 229.8940)
+            (net A10_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1462.1050 229.8940 1546.0000 146.0000)
+            (net A10_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 273.0000 284.0000 273.0000 803.0000)
+            (net A10_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 273.0000 803.0000 328.7000 858.7000)
+            (net A10_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 328.7000 858.7000 405.1410 858.7000)
+            (net A10_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1546.0000 146.0000 4186.0000 146.0000)
+            (net A10_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1462.1050 229.8940 1484.1050 251.8940)
+            (net A10_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4186.0000 146.0000 4206.0000 166.0000)
+            (net A10_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4206.0000 166.0000 4206.0000 272.3810)
+            (net A10_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1484.1050 251.8940 1484.1050 603.9210)
+            (net A10_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4167.3970 310.9840 4206.0000 272.3810)
+            (net A10_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 336.1050 257.8940 1434.1050 257.8940)
+            (net A11_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 297.0000 297.0000 336.1050 257.8940)
+            (net A11_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1696.0000 166.0000 3993.0000 166.0000)
+            (net A11_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1646.0000 216.0000 1696.0000 166.0000)
+            (net A11_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3993.0000 166.0000 4010.3970 183.3970)
+            (net A11_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4010.3970 183.3970 4010.3970 231.9840)
+            (net A11_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1646.0000 216.0000 1646.0000 256.0000)
+            (net A11_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1434.1050 257.8940 1434.1050 603.9210)
+            (net A11_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1811.0000 1421.0000 1811.0000 1471.0000)
+            (net D8_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1811.0000 1421.0000 1861.0000 1371.0000)
+            (net D8_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1811.0000 1471.0000 1811.0000 1786.0000)
+            (net D8_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1811.0000 1786.0000 1846.0000 1821.0000)
+            (net D8_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3420.0000 1706.0000 3457.0150 1668.9840)
+            (net D8_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3457.0150 1668.9840 3459.3970 1668.9840)
+            (net D8_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1846.0000 1821.0000 1846.0000 1822.0000)
+            (net D8_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1846.0000 1822.0000 3395.0000 1821.0000)
+            (net D8_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3420.0000 1706.0000 3420.0000 1796.0000)
+            (net D8_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3395.0000 1821.0000 3420.0000 1796.0000)
+            (net D8_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1611.0000 1472.0000 1611.0000 1816.0000)
+            (net D10_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1611.0000 1471.0000 1611.0000 1472.0000)
+            (net D10_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1611.0000 1816.0000 1646.0000 1851.0000)
+            (net D10_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1661.0000 1371.0000 1661.0000 1422.0000)
+            (net D10_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3499.0000 1707.0000 3537.0150 1668.9840)
+            (net D10_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3499.0000 1707.0000 3499.0000 1807.0000)
+            (net D10_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1646.0000 1851.0000 3455.0000 1851.0000)
+            (net D10_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3537.0150 1668.9840 3537.3970 1668.9840)
+            (net D10_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3455.0000 1851.0000 3499.0000 1807.0000)
+            (net D10_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1411.0000 1467.0000 1461.0000 1417.0000)
+            (net D12_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1411.0000 1809.0000 1483.0000 1881.0000)
+            (net D12_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3576.0000 1709.3810 3616.3970 1668.9840)
+            (net D12_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1483.0000 1881.0000 3519.0000 1881.0000)
+            (net D12_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3576.0000 1709.3810 3576.0000 1824.0000)
+            (net D12_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3519.0000 1881.0000 3576.0000 1824.0000)
+            (net D12_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1161.0000 1371.0000 1161.0000 1421.0000)
+            (net D14_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1161.0000 1421.0000 1211.0000 1471.0000)
+            (net D14_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1211.0000 1471.0000 1211.0000 1808.0000)
+            (net D14_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1211.0000 1808.0000 1303.0000 1900.0000)
+            (net D14_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3656.0000 1707.0000 3694.0150 1668.9840)
+            (net D14_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3694.0150 1668.9840 3695.3970 1668.9840)
+            (net D14_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1303.0000 1900.0000 3600.0000 1900.0000)
+            (net D14_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3656.0000 1707.0000 3656.0000 1844.0000)
+            (net D14_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 3600.0000 1900.0000 3656.0000 1844.0000)
+            (net D14_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4010.3970 310.9840 4010.3970 367.3970)
+            (net A0_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4010.3970 367.3970 4142.0000 499.0000)
+            (net A0_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4142.0000 499.0000 4333.0000 499.0000)
+            (net A0_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4333.0000 499.0000 4370.0000 536.0000)
+            (net A0_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4370.0000 536.0000 4370.0000 882.0000)
+            (net A0_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4370.0000 882.0000 4499.5590 1011.5590)
+            (net A0_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4499.5590 1011.5590 4561.0980 1011.5590)
+            (net A0_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4049.0000 271.3810 4088.3970 231.9840)
+            (net A1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4049.0000 271.3810 4049.0000 365.0000)
+            (net A1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4049.0000 365.0000 4143.0000 459.0000)
+            (net A1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4143.0000 459.0000 4337.0000 459.0000)
+            (net A1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4337.0000 459.0000 4412.0000 534.0000)
+            (net A1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4412.0000 534.0000 4412.0000 874.0000)
+            (net A1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4412.0000 874.0000 4499.5590 961.5590)
+            (net A1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4499.5590 961.5590 4561.0980 961.5590)
+            (net A1_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4088.0000 311.3810 4088.3970 310.9840)
+            (net A2_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4088.0000 311.3810 4088.0000 369.0000)
+            (net A2_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4088.0000 369.0000 4144.0000 425.0000)
+            (net A2_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4144.0000 425.0000 4338.0000 425.0000)
+            (net A2_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4338.0000 425.0000 4450.0000 537.0000)
+            (net A2_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4450.0000 537.0000 4450.0000 861.0000)
+            (net A2_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4450.0000 861.0000 4500.5590 911.5590)
+            (net A2_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4500.5590 911.5590 4561.0980 911.5590)
+            (net A2_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4128.0000 271.0000 4167.0150 231.9840)
+            (net A3_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4128.0000 271.0000 4128.0000 368.0000)
+            (net A3_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4128.0000 368.0000 4150.0000 390.0000)
+            (net A3_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4150.0000 390.0000 4340.0000 390.0000)
+            (net A3_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4167.0150 231.9840 4167.3970 231.9840)
+            (net A3_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4340.0000 390.0000 4486.0000 536.0000)
+            (net A3_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4486.0000 536.0000 4486.0000 846.0000)
+            (net A3_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4486.0000 846.0000 4501.5590 861.5590)
+            (net A3_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4501.5590 861.5590 4561.0980 861.5590)
+            (net A3_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4246.3970 1668.9840 4246.9840 1668.9840)
+            (net A4_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4206.0000 1708.0000 4206.0000 1788.0000)
+            (net A4_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4206.0000 1788.0000 4232.0000 1814.0000)
+            (net A4_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4232.0000 1814.0000 4514.0000 1814.0000)
+            (net A4_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4514.0000 1814.0000 4637.0000 1691.0000)
+            (net A4_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4561.0980 811.5590 4561.6570 811.0000)
+            (net A4_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4561.6570 811.0000 4618.0000 811.0000)
+            (net A4_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4618.0000 811.0000 4637.0000 830.0000)
+            (net A4_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4637.0000 830.0000 4637.0000 1215.0000)
+            (net A4_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4606.0000 1246.0000 4637.0000 1215.0000)
+            (net A4_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4606.0000 1246.0000 4606.0000 1529.0000)
+            (net A4_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4606.0000 1529.0000 4637.0000 1560.0000)
+            (net A4_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4637.0000 1560.0000 4637.0000 1691.0000)
+            (net A4_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4531.0000 1834.0000 4659.0000 1706.0000)
+            (net A5_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4167.3970 1747.9840 4167.3970 1789.3970)
+            (net A5_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4167.3970 1789.3970 4212.0000 1834.0000)
+            (net A5_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4212.0000 1834.0000 4531.0000 1834.0000)
+            (net A5_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4561.0980 761.5590 4626.5590 761.5590)
+            (net A5_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4626.5590 761.5590 4659.0000 794.0000)
+            (net A5_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4659.0000 794.0000 4659.0000 1226.0000)
+            (net A5_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4631.0000 1254.0000 4659.0000 1226.0000)
+            (net A5_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4631.0000 1254.0000 4631.0000 1527.0000)
+            (net A5_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4631.0000 1527.0000 4659.0000 1555.0000)
+            (net A5_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4659.0000 1555.0000 4659.0000 1706.0000)
+            (net A5_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4127.0000 1709.0000 4167.3970 1669.3970)
+            (net A6_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4167.3970 1668.9840 4167.3970 1669.3970)
+            (net A6_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4127.0000 1709.0000 4127.0000 1789.0000)
+            (net A6_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4127.0000 1789.0000 4192.0000 1854.0000)
+            (net A6_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4192.0000 1854.0000 4547.0000 1854.0000)
+            (net A6_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4561.0980 711.5590 4640.5590 711.5590)
+            (net A6_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4640.5590 711.5590 4682.0000 753.0000)
+            (net A6_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4682.0000 753.0000 4682.0000 1235.0000)
+            (net A6_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4656.0000 1261.0000 4682.0000 1235.0000)
+            (net A6_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4656.0000 1261.0000 4656.0000 1522.0000)
+            (net A6_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4656.0000 1522.0000 4682.0000 1548.0000)
+            (net A6_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4682.0000 1548.0000 4682.0000 1719.0000)
+            (net A6_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4547.0000 1854.0000 4682.0000 1719.0000)
+            (net A6_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4561.0980 661.5590 4648.5590 661.5590)
+            (net A7_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4088.3970 1747.9840 4088.3970 1790.3970)
+            (net A7_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4088.3970 1790.3970 4172.0000 1874.0000)
+            (net A7_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4172.0000 1874.0000 4562.0000 1874.0000)
+            (net A7_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4648.5590 661.5590 4707.0000 720.0000)
+            (net A7_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4707.0000 720.0000 4707.0000 1244.0000)
+            (net A7_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4680.0000 1271.0000 4707.0000 1244.0000)
+            (net A7_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4680.0000 1271.0000 4680.0000 1514.0000)
+            (net A7_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4680.0000 1514.0000 4707.0000 1541.0000)
+            (net A7_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4707.0000 1541.0000 4707.0000 1729.0000)
+            (net A7_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 4562.0000 1874.0000 4707.0000 1729.0000)
+            (net A7_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1334.0000 300.0000 1334.0000 603.8150)
+            (net A9_1)
+            (type normal)
+        )
+        (wire 
+            (path BottomLayer 10.0000 1334.0000 603.8150 1334.1050 603.9210)
+            (net A9_1)
+            (type normal)
+        )
+        (via Via2_TB 699.7950 1109.7950
+            (net GND)
+            (type normal)
+        )
+        (via Via2_TB 609.7950 1109.7950
+            (net VCC)
+            (type normal)
+        )
+        (via Via2_TB 3010.0000 1628.0000
+            (net VCC)
+            (type normal)
+        )
+        (via Via2_TB 516.0000 760.0000
+            (net VCC)
+            (type normal)
+        )
+        (via Via2_TB 1000.0000 580.0000
+            (net GND)
+            (type normal)
+        )
+        (via Via2_TB 1000.0000 860.0000
+            (net GND)
+            (type normal)
+        )
+        (via Via2_TB 4645.0000 612.0000
+            (net GND)
+            (type normal)
+        )
+        (via Via2_TB 4565.0000 1200.7480
+            (net GND)
+            (type normal)
+        )
+        (via Via2_TB 1480.0000 120.0000
+            (net R\A\S\_1)
+            (type normal)
+        )
+        (via Via2_TB 1962.3390 784.3390
+            (net N00011)
+            (type normal)
+        )
+        (via Via2_TB 3511.0000 1166.0000
+            (net AB7_1)
+            (type normal)
+        )
+        (via Via2_TB 3556.0000 891.0000
+            (net AB7_1)
+            (type normal)
+        )
+        (via Via2_TB 3980.0000 1600.0000
+            (net VCC)
+            (type normal)
+        )
+        (via Via2_TB 2351.0000 1224.0000
+            (net BRAS1_1)
+            (type normal)
+        )
+        (via Via2_TB 1434.1050 257.8940
+            (net A11_1)
+            (type normal)
+        )
+        (via Via2_TB 1646.0000 256.0000
+            (net A11_1)
+            (type normal)
+        )
+        (via Via2_TB 1392.0000 381.0000
+            (net A8_1)
+            (type normal)
+        )
+        (via Via2_TB 1334.0000 300.0000
+            (net A9_1)
+            (type normal)
+        )
+    )
+)
