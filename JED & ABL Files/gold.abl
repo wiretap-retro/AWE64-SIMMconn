@@ -1,0 +1,53 @@
+module SIMMConnG
+title 'GAL for memory interface'
+
+"declarations
+Gold device 'p16v8C';
+C=.c.;
+X=.x.;
+
+"inputs
+A11             pin 1;
+A10             pin 2;
+~RAS		pin 3;
+PD1             pin 4;
+PD2             pin 5;
+~CAS   		pin 8;
+BASEM1          pin 9;
+
+"outputs
+~CAS2           pin 12;
+~CAS0		pin 13;
+~RAS0		pin 14;
+CASD            pin 15;
+CBR             pin 16;
+RA10            pin 17;
+RA11            pin 18;
+~RAS1           pin 19;
+
+~RAMEN=!RA11&!A11 # RA11&A11&!PD1 # PD1&!PD2&RA11;
+
+CA=(PD2 & A11) # (!PD2 & A10);
+~CA=(PD2 & !A11) # (!PD2 & !A10);
+
+RA=(PD2 & RA11) # (!PD2 & RA10);
+~RA=(PD2 & !RA11) # (!PD2 & !RA10);
+
+equations
+
+
+"CAS SELECT
+CASD=~CAS;
+RA11=(~RAS & A11) # (!~RAS & RA11);
+RA10=(~RAS & A10) # (!~RAS & RA10);
+CBR=(CASD & ~RAS) # (!CASD & CBR);
+
+~CAS0=~CAS # ((~RAMEN # CA) & !CBR);
+~CAS2=~CAS # ((~RAMEN # ~CA)& !CBR);
+
+"RAS SELECT
+~RAS0=~RAS # (RA & (!CBR # ~CAS) & PD1) ;
+~RAS1=~RAS # (~RA & (!CBR # ~CAS)) # !PD1;
+
+END SIMMConnG
+
