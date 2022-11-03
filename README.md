@@ -13,4 +13,4 @@ This respository contains the Altium converted project from the original Protel 
 Flashing the PAL, it is recommended to use the specific VALUE or GOLD *.jed file. The ALL file is listed as experimental.
 \
 \
-Tested and working on my AWE64 Gold. It can be picky about your choice of RAM, so test out a few different SIMMs. 32MB SIMMs are limited to 28MB. (E-mu8000 limitation)
+Tested and working on my AWE64 Gold. It can be picky about your choice of RAM, so test out a few different SIMMs. 32MB SIMMs are limited to 28MB. (E-MU8000 limitation)
