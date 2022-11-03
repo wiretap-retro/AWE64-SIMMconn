@@ -1,4 +1,4 @@
-# AWE64-SIMMconn
+# AWE64 SIMMconn
 A memory expansion for the AWE64 Value and AWE64 Gold.
 
 ![pic](pic.jpg)
